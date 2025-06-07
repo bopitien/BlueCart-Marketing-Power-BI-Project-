@@ -22,9 +22,7 @@ Using **Power BI**, I built a dynamic dashboard that uncovered which platforms, 
 
 ## 🛠️ Tools & Technologies Used
 
-- **Microsoft Excel** – for data preparation and initial exploration  
-- **Power BI** – for data modeling, transformation, KPI tracking, and dashboarding  
-- **Power Query** – for data cleaning and transformation logic
+- **Power BI** – for data modeling, data cleaning and transformation logic, KPI tracking, and dashboarding  
 
 ---
 
