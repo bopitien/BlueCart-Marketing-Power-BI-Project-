@@ -115,8 +115,7 @@ BlueCart was investing heavily across various digital platforms but was experien
 
 ## 📎 dashboard link 
 
-- 🔗 [Power BI Dashboard Screenshots](#) *([screenshot links](https://app.powerbi.com/view?r=eyJrIjoiM2Q2MWU5ZTgtMjk1OC00MTdkLTg4MzUtZTZmNzYzYzkzMTRlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=47cc5070db730a670a88))*  
-
+- 🔗 [Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiM2Q2MWU5ZTgtMjk1OC00MTdkLTg4MzUtZTZmNzYzYzkzMTRlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=47cc5070db730a670a88) 
 
 ---
 
